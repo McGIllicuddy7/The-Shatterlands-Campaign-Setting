@@ -1,0 +1,16 @@
+The planet the game takes place on is called Mir 
+Mir rotates about its sun once every 320 days and its sun is slightly dimmer than earth's. It has a 24 hour day. It has a single moon, called the moon by it's inhabitants which rotates around Mir once every 722 hours, a month of Mir is hence 30-ish days. 
+The months(Charninite Calender which is fairly standard):
+    Primus(late summer, about the same as September on Earth)
+    Secondus(same time as October about)
+    Tirtious(~November)
+    Quarterous(~December)
+    Pentus(~January)
+    Sextus(~Febuary)
+    Septus(~March)
+    Octus(~April)
+    Nonus(May)
+    Decus(June)
+    Primus-Secondus(July)
+    Secondus-Seconds(August)
+    The days at the end of the year needed to set the lunar year in sync with the solar year are reserved for the festival of the glorious and are not technically part of a month. 

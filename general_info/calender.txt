@@ -9,8 +9,8 @@ The months(Charninite Calender which is fairly standard):
     Sextus(~Febuary)
     Septus(~March)
     Octus(~April)
-    Nonus(May)
-    Decus(June)
-    Primus-Secondus(July)
-    Secondus-Seconds(August)
+    Nonus(~May)
+    Decus(~June)
+    Primus-Secondus(~July)
+    Secondus-Seconds(~August)
     The days at the end of the year needed to set the lunar year in sync with the solar year are reserved for the festival of the glorious and are not technically part of a month. 
